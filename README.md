@@ -6,6 +6,7 @@
 
 ``` bash
 # install dependencies
+# node 16
 npm install
 
 # serve with hot reload at localhost:3000
